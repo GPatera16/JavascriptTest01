@@ -16,6 +16,8 @@
     flex-direction: column;
 
 }
+
+
 .calculator div{
     display: flex;
     align-items: center;
@@ -33,7 +35,7 @@
     align-items: center;
     justify-content: center;
     padding: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     background-color: white;
     height: 20px;
     border: 2px solid black;
